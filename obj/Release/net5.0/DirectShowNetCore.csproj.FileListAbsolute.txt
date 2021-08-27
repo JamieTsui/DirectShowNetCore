@@ -1,0 +1,12 @@
+C:\Users\JamieChu\Desktop\DirectShowNetCore\bin\Release\net5.0\DirectShowNetCore.deps.json
+C:\Users\JamieChu\Desktop\DirectShowNetCore\bin\Release\net5.0\DirectShowNetCore.dll
+C:\Users\JamieChu\Desktop\DirectShowNetCore\bin\Release\net5.0\ref\DirectShowNetCore.dll
+C:\Users\JamieChu\Desktop\DirectShowNetCore\bin\Release\net5.0\DirectShowNetCore.pdb
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.AssemblyInfoInputs.cache
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.AssemblyInfo.cs
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.csproj.CoreCompileInputs.cache
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.dll
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\ref\DirectShowNetCore.dll
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.pdb
+C:\Users\JamieChu\Desktop\DirectShowNetCore\obj\Release\net5.0\DirectShowNetCore.csproj.AssemblyReference.cache
